@@ -1,0 +1,6 @@
+source create_library_tables.sql
+source insert_borrower.sql
+source insert_library_branch.sql
+source insert_book.sql
+source insert_book_authors.sql
+source insert_book_copies.sql

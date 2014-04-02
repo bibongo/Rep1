@@ -1,5 +1,6 @@
 ## Ravish Trivedi
 
+The code implements a decision tree algorithm (ID3) with Trial-and-Error pruning.
 The code is written in Python 3.3 language.
 
 id3.py - uses information gain heuristic 

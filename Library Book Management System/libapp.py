@@ -1,6 +1,5 @@
 ## Ravish Trivedi
 ## rvt130130
-## CS 6360.002 Database Design homework #3: Library Application
 import wx
 import sys
 import mysql.connector
